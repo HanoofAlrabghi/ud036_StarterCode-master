@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+.logo-size {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.color-img {
+  width: 60px;
+  height: 60px;
+  margin: 20px;
+}
+
+.code-img {
+  max-width: 100%;
+  height: 200px;
+}
+
+.code-col {
+  margin: 25px;
+  width: 250px;
+}
+
+hr {
+  width: 800px;
+}
+
+a {
+  display: inline;
+  margin: 100px;
+  color: #778899;
+}
+
+h1, h3 {
+  font-family:"Verdana, Geneva, Tahoma, sans-serif";
+}
+
+.figcap-color {
+  margin-left:20px;
+}
+
+.figcap-code {
+  margin-left: 100px;
+}
+
+.link-marg {
+  margin-left: 10px;
+}
+
+footer {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
